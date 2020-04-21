@@ -1,4 +1,4 @@
-package me.sdevil507.result;
+package me.sdevil507.supports.result;
 
 
 /**
