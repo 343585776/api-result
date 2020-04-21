@@ -11,6 +11,10 @@
     <name>api-result</name>
     <description>公用API返回定义</description>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
     <!-- 设置发布仓库地址 -->
     <distributionManagement>
         <repository>
